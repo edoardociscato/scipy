@@ -348,6 +348,7 @@ from .distributions import *
 from .morestats import *
 from ._binned_statistic import *
 from .kde import gaussian_kde
+from .kde_weighted import gaussian_kde_weighted
 from . import mstats
 from .contingency import chi2_contingency
 from ._multivariate import *
